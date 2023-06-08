@@ -855,6 +855,11 @@ public class WebTest {
         check(Config.Website + "/gamification-in-banking-financial-services/", Config.checkMethod.checkSmallContactForm);
     }
 
+    @Test
+    public void SmallCF_ListOfFintechKotlinDevelopers() throws InterruptedException {
+        check(Config.Website + "/list-of-fintech-kotlin-developers/", Config.checkMethod.checkSmallContactForm);
+    }
+
     /* -- end check blog posts. */
 
     /* Check Portfolio Cases: */

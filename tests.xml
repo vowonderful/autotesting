@@ -166,6 +166,7 @@
                     <include name="SmallCF_ListOfFintechBackendDevelopersToHire"/>
                     <include name="SmallCF_InCarPaymentsIntegrationForAutomotiveIndustry"/>
                     <include name="SmallCF_GamificationInBankingFinancialServices"/>
+                    <include name="SmallCF_ListOfFintechKotlinDevelopers"/>
 
                     <!-- Portfolio Cases: -->
                     <include name="BigCF_PortfolioCase_MBA"/>
